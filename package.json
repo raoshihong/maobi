@@ -1,0 +1,20 @@
+{
+  "name": "maobi",
+  "version": "1.0.0",
+  "description": "高仿石墨文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raoshihong/maobi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raoshihong/maobi/issues"
+  },
+  "homepage": "https://github.com/raoshihong/maobi#readme"
+}
